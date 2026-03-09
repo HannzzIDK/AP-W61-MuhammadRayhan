@@ -1,0 +1,1 @@
+1. The output of the program should be "Sone animal sound" but, due to an override in the Cat class the method sound changes into "Meow". the main method creates a cat object which already states that it was inherited from animal class, and especially the sound method that has been overridden
